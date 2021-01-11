@@ -1,6 +1,6 @@
 <?php
 
-namespace RollingCUrl;
+namespace RollingCUrl\RollingCurl;
 
 /**
  * Class that represent a single curl request

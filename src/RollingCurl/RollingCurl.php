@@ -1,7 +1,7 @@
 <?php
 
 
-namespace RollingCUrl;
+namespace RollingCUrl\RollingCurl;
 
 
 /**

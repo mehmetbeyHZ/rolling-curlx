@@ -1,0 +1,18 @@
+{
+    "name": "mehmetbeyhz/rolling-curlx",
+    "description": "Multi curl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mehmetbeyhz",
+            "email": "mehmetbeyhz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RollingCurl" : "src/"
+        }
+    }
+}
